@@ -29,6 +29,6 @@
 </p>
 
 ### <img src="https://media.giphy.com/media/KewJXANfq8XICQqTgN/giphy.gif" width="30"> &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ioopy&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ioopy&theme=dark&background=000000)](https://git.io/ioopy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ioopy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

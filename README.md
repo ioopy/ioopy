@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Chitsanucha Saithong</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Chitsanucha Saithong.</h1>
 <h3 align="center">I am a Software Engineer.</h3>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
@@ -30,8 +30,8 @@
 
 ### <img src="https://media.giphy.com/media/KewJXANfq8XICQqTgN/giphy.gif" width="30"> &nbsp; My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ioopy&show_icons=true&locale=en&layout=compact" alt="ioopy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ioopy&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="ioopy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ioopy&show_icons=true&locale=en" alt="ioopy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ioopy&theme=vision-friendly-dark&show_icons=true&locale=en" alt="ioopy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ioopy&" alt="ioopy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ioopy&theme=dark&background=000000&" alt="ioopy" /></p>

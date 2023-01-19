@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time I solve problems on Leetcode and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ChitsanuchaS.-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chitsanucha-saithong)
 
 ---

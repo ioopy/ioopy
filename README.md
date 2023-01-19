@@ -29,6 +29,9 @@
 </p>
 
 ### <img src="https://media.giphy.com/media/KewJXANfq8XICQqTgN/giphy.gif" width="30"> &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ioopy&theme=dark&background=000000)](https://git.io/ioopy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ioopy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ioopy&show_icons=true&locale=en&layout=compact" alt="ioopy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ioopy&show_icons=true&locale=en" alt="ioopy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ioopy&" alt="ioopy" /></p>
